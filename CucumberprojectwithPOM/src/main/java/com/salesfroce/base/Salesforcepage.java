@@ -27,7 +27,7 @@ public class Salesforcepage
 			System.out.println("element not cleared");
 		}
 		}
-		//sending textvalues
+		//sending textvalues to textbox
 		public static void textvalues(WebElement element,String text, String objectname)
 		{
 			if(element.isDisplayed())
