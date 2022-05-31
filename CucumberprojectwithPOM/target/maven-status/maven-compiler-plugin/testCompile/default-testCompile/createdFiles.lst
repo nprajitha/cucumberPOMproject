@@ -1,0 +1,12 @@
+com\saleforce\pages\forgotpswdpage\Forgotpassword.class
+com\steps\StepsSalesforcePom.class
+com\salesforce\pages\HomePages\package-info.class
+com\saleforce\pages\resetpage\Resetpage.class
+com\salesforce\pages\HomePages\Homepage.class
+com\runners\Runner.class
+com\salesfroce\pages\loginpages\package-info.class
+com\runners\package-info.class
+com\steps\package-info.class
+com\saleforce\pages\resetpage\package-info.class
+com\saleforce\pages\forgotpswdpage\package-info.class
+com\salesfroce\pages\loginpages\Loginpage.class
